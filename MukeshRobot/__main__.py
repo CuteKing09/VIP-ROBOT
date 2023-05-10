@@ -101,15 +101,15 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀️‍🔥", callback_data="help_back"),
+        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="help_back"),
         InlineKeyboardButton(text="✨ ᴍᴜsɪᴄ ✨", callback_data="Music_"),
     ],
     [
         InlineKeyboardButton(text="🌹sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ🌹", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"tg://settings"),
+        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://settings"),
     ],
     [
-        InlineKeyboardButton(text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱", callback_data="mukesh_"),
+        InlineKeyboardButton(text="😊 ᴅᴘ ᴄʜᴀɴɴᴇʟ 🥰 ", callback_data="mukesh_"),
     ],
 ]
 
@@ -401,7 +401,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/THE_VIP_BOY"
+                            text="📍ᴏᴡɴᴇʀ📍", url=f"https://t.me/TermuxBoy"
                         ),
                         InlineKeyboardButton(
                             text="🎄𝐑𝐄𝐏𝐎🎄", 
