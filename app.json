@@ -60,12 +60,12 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+         "value": "https://te.legra.ph/file/65ac3849c0fcde5e93534.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "TG_FRIENDSS"
+         "value": "Best_Friends_Chat_Group"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
